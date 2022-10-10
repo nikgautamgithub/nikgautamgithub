@@ -5,7 +5,7 @@
 - 📫 Reach me on <a href="https://www.instagram.com/nikgautamig/">nikgautamig</a>
 
 <hr>
-Badges <br>
+Badges
 
 [![@gyunther's Holopin board](https://holopin.io/api/user/board?user=gyunther)](https://holopin.io/@gyunther)
 <!---
