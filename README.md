@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Nikhil Gautam
 - 👀 I’m interested in learning new stuff.
 - 🌱 I’m currently learning competitive programming and WebDev.
+- 👨‍💻 I have a good grasp of Java, C/C++, HTML/CSS and Javascript.
+- 💻 I have also worked with ChartJS and currently learning Javascript Frameworks.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 Reach me on <a href="https://www.instagram.com/nikgautamig/">nikgautamig</a>
 
