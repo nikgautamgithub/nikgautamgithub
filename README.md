@@ -95,8 +95,11 @@
 </p>
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikgautamgithub&show_icons=true&locale=en&layout=compact&text_color=daf7dc&title_color=58A5FE&bg_color=0D1117" alt="anshu189"/>
-<img src="https://github-readme-stats.vercel.app/api?username=nikgautamgithub&theme=github_dark&show_icons=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikgautamgithub&show_icons=true&locale=en&layout=compact&text_color=daf7dc&title_color=58A5FE&bg_color=0D1117" alt="nikgautam"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nikgautamgithub&theme=github_dark&show_icons=true" alt="nikgautam" /> -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikgautamgithub&show_icons=true&theme=transparent&hide=stars)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikgautamgithub&layout=compact&theme=transparent)
 
 # 🥇 Badges
 [![@gyunther's Holopin board](https://holopin.io/api/user/board?user=gyunther)](https://holopin.io/@gyunther)
