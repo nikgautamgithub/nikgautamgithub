@@ -5,7 +5,7 @@
 - 👨‍💻 I have a good grasp of Java, C/C++, HTML/CSS and Javascript.
 - 💻 I have also worked with ChartJS and currently learning Javascript Frameworks.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 Reach me on my <a href="mailto:nikhilgautam55863@gmail.com">e-mail address</a>.
+- 📫 Reach me on my <a href="mailto:nikhilgautam55863@gmail.com" target="_blank">e-mail address</a>.
 
 ## 🌐 Socials:
 <p align="left">
