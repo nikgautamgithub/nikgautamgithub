@@ -5,10 +5,20 @@
 - 👨‍💻 I have a good grasp of Java, C/C++, HTML/CSS and Javascript.
 - 💻 I have also worked with ChartJS and currently learning Javascript Frameworks.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 Reach me on <a href="https://www.instagram.com/nikgautamig/">nikgautamig</a>
+- 📫 Reach me on my <a href="mailto:nikhilgautam55863@gmail.com">e-mail address</a>.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikgautamig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikgautam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nikgautamtweets) 
+<p align="left">
+  <a href="https://instagram.com/nikgautamig" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/nikgautam" target="_blank">
+    <img src="https://freesvg.org/img/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/nikgautamtweets" target="_blank">
+    <img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=nikgautamgithub&style=flat-square)
 # 💻 Tech Stack:
