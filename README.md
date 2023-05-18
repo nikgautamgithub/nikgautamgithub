@@ -1,4 +1,4 @@
-<h1 align="center"><img style="width: 230px; height: 30px; object-fit: cover; object-position: 0 50%;margin: -4px 0;border-radius: 3px;" src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966" height="100"/><br>I’m Nikhil Gautam</h1>
+<h1 align="center"><img style="width: 230px; height: 30px; object-fit: cover; object-position: 0 50%;margin: -4px 0;border-radius: 3px;" src="hello-world.gif" height="100"/><br>I’m Nikhil Gautam</h1>
 
 - 👀 I’m interested in learning new stuff.
 - 🌱 I’m currently learning competitive programming and WebDev.
