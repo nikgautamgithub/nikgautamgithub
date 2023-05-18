@@ -1,4 +1,4 @@
-<h1 align="center"><img style="width: 230px; height: 30px; object-fit: cover; object-position: 0 50%;margin: -4px 0;border-radius: 3px;" src="hello-world.gif" height="100"/><br>I’m Nikhil Gautam</h1>
+<h1 align="center"><img style="width: 230px; height: 30px; object-fit: cover; object-position: 0 50%;margin: -4px;border-radius: 3px;zoom:2; padding-bottom:10px;" src="hello-world.gif" height="100"/><br>I’m Nikhil Gautam</h1>
 
 - 👀 I’m interested in learning new stuff.
 - 🌱 I’m currently learning competitive programming and WebDev.
