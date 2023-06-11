@@ -1,9 +1,8 @@
 <h1 align="center"><img style="width: 230px; height: 30px; object-fit: cover; object-position: 0 50%;margin: -4px;border-radius: 3px;zoom:2; padding-bottom:10px;" src="hello-world.gif" height="100"/><br>I’m Nikhil Gautam</h1>
 
 - 👀 I’m interested in learning new stuff.
-- 🌱 I’m currently learning competitive programming and WebDev.
 - 👨‍💻 I have a good grasp of Java, C/C++, HTML/CSS and Javascript.
-- 💻 I have also worked with ChartJS and currently learning Javascript Frameworks.
+- 💻 I have also worked with React, ChartJS, NextJS and currently learning Javascript Frameworks.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 Reach me on my <a href="mailto:nikhilgautam55863@gmail.com" target="_blank">e-mail address</a>.
 
@@ -39,6 +38,23 @@
       height="40"
     />
   </a>
+  <a href="https://www.java.com/en/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png"
+      alt="Python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br>
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -71,22 +87,7 @@
       height="40"
     />
   </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="NodeJS"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="ExpressJS"
-      width="40"
-      height="40"
-    />
-  </a>
+  <br>
   <a href="https://mongodb.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
@@ -95,10 +96,26 @@
       height="40"
     />
   </a>
-  <a href="https://postman.com/" target="_blank">
+  <a href="https://expressjs.com/" target="_blank">
     <img
-      src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png"
-      alt="Postman"
+      src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png"
+      alt="ExpressJS"
+      width="60"
+      height="40"
+    />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
+      alt="React"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="NodeJS"
       width="40"
       height="40"
     />
@@ -107,6 +124,15 @@
     <img
       src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4"
       alt="ChartJS"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br>
+    <a href="https://postman.com/" target="_blank">
+    <img
+      src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png"
+      alt="Postman"
       width="40"
       height="40"
     />
@@ -127,23 +153,8 @@
       height="40"
     />
   </a>
-  <a href="https://www.java.com/en/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png"
-      alt="Python"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+ </p>
+  
 
 # 📊 GitHub Stats:
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikgautamgithub&show_icons=true&locale=en&layout=compact&text_color=daf7dc&title_color=58A5FE&bg_color=0D1117" alt="nikgautam"/>
