@@ -1,10 +1,10 @@
-<h1 align="center"><img style="width: 230px; height: 30px; object-fit: cover; object-position: 0 50%;margin: -4px;border-radius: 3px;zoom:2; padding-bottom:10px;" src="hello-world.gif" height="100"/><br>I’m Nikhil Gautam</h1>
+<h1 align="center"><img style="width: 230px; height: 30px; object-fit: cover; object-position: 0 50%;margin: -4px;border-radius: 3px;zoom:2; padding-bottom:10px;" src="hello-world.gif" height="100"/><br>Nikhil Gautam</h1>
 
-- 👀 I’m interested in learning new stuff.
-- 👨‍💻 I have a good grasp of Java, C/C++, HTML/CSS and Javascript.
+<h3 align="center">I own a computer, hence I Code.</h3>
+
+- 👨‍💻 I have a good grasp of C/C++, Java, Py, HTML/CSS and Javascript.
 - 💻 I have also worked with React, ChartJS, NextJS and currently learning Javascript Frameworks.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 Reach me on my <a href="mailto:nikhilgautam55863@gmail.com" target="_blank">e-mail address</a>.
+- 📫 Reach me on my socials.
 
 ## 🌐 Socials:
 <p align="left">
