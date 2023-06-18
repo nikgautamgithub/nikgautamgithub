@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.tenor.com/uYP_Nkq8VPsAAAAC/coding-hello-world.gif" alt= ""/><br>Nikhil Gautam</h1>
+<h1 align="center"><img style="width: 230px; height: 50px; object-fit: cover; object-position: 0 0%;margin: -4px;border-radius: 3px;zoom:2; padding-bottom:10px;" src="hello-world.gif" alt= ""/><br>Nikhil Gautam</h1>
 
 <h3 align="center">I own a computer, hence I Code.</h3>
 
