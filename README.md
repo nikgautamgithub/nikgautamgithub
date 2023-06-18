@@ -20,6 +20,8 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=nikgautamgithub&style=flat-square)
+
+![](https://github.com/nikgautamgithub/nikgautamgithub/blob/output/github-contribution-grid-snake.svg)
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -168,5 +170,3 @@
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-
-![](https://github.com/nikgautamgithub/nikgautamgithub/blob/output/github-contribution-grid-snake.svg)
