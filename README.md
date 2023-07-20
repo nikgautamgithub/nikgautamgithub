@@ -3,7 +3,7 @@
 <h3 align="center">I own a computer, hence I Code.</h3>
 
 - 👨‍💻 I have a good grasp of C/C++, Java, Py, HTML/CSS and Javascript.
-- 💻 I have also worked with React, ChartJS, NextJS and currently learning Javascript Frameworks.
+- 💻 I have also worked with React, Angular, NextJS and currently learning Javascript Frameworks.
 - 📫 Reach me on my socials.
 
 ## 🌐 Socials:
@@ -114,18 +114,19 @@
       height="40"
     />
   </a>
-  <a href="https://nodejs.org/" target="_blank">
+  </a>
+  <a href="https://angular.io/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="NodeJS"
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg"
+      alt="Angular"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://chartjs.org/" target="_blank">
+  <a href="https://nodejs.org/" target="_blank">
     <img
-      src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4"
-      alt="ChartJS"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="NodeJS"
       width="40"
       height="40"
     />
