@@ -21,7 +21,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nikgautamgithub&style=flat-square)
 
-![](https://github.com/nikgautamgithub/nikgautamgithub/blob/output/github-contribution-grid-snake.svg)
+<!--![](https://github.com/nikgautamgithub/nikgautamgithub/blob/output/github-contribution-grid-snake.svg)-->
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
