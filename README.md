@@ -2,28 +2,29 @@
 
 <h3 align="center">I own a computer, hence I Code.</h3>
 
-- 👨‍💻 I have a good grasp of C/C++, Java, Py, HTML/CSS and Javascript.
-- 💻 I have also worked with React, Angular, NextJS and currently learning Javascript Frameworks.
+- 👨‍💻 I have a good grasp of C/C++, Java, Py, HTML/CSS and Javascript. 
+  <br/>
+- 💻 I have also worked with React, Angular, NextJS and currently learning Javascript Frameworks. 
+  <br/>
 - 📫 Reach me on my socials.
-
-## 🌐 Socials:
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/nikgautamig" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" width="30" height="30"/>
   </a>
   <a href="https://linkedin.com/in/nikgautam" target="_blank">
-    <img src="https://freesvg.org/img/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://freesvg.org/img/linkedin.png" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="https://twitter.com/nikgautamtweets" target="_blank">
-    <img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="Twitter" width="40" height="40"/>
+    <img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="Twitter" width="30" height="30"/>
   </a>
+  <br/>
+    <img src="https://komarev.com/ghpvc/?username=nikgautamgithub&style=flat-square" alt="Views"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=nikgautamgithub&style=flat-square)
 
 <!--![](https://github.com/nikgautamgithub/nikgautamgithub/blob/output/github-contribution-grid-snake.svg)-->
-# 💻 Tech Stack:
-<p align="left">
+<h2 align="center">💻 Tech Stack</h2>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -56,7 +57,6 @@
       height="40"
     />
   </a>
-  <br>
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -89,7 +89,6 @@
       height="40"
     />
   </a>
-  <br>
   <a href="https://mongodb.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
@@ -114,6 +113,14 @@
       height="40"
     />
   </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img
+      src="https://dinhanhthi.com/img/header/nextjs.png"
+      alt="NextJS"
+      width="40"
+      height="40"
+    />
+  </a>
   </a>
   <a href="https://angular.io/" target="_blank">
     <img
@@ -131,10 +138,9 @@
       height="40"
     />
   </a>
-  <br>
     <a href="https://postman.com/" target="_blank">
     <img
-      src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png"
+      src="https://icon.icepanel.io/Technology/svg/Postman.svg"
       alt="Postman"
       width="40"
       height="40"
@@ -157,14 +163,10 @@
     />
   </a>
  </p>
-  
 
-# 📊 GitHub Stats:
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikgautamgithub&show_icons=true&locale=en&layout=compact&text_color=daf7dc&title_color=58A5FE&bg_color=0D1117" alt="nikgautam"/>
-<img src="https://github-readme-stats.vercel.app/api?username=nikgautamgithub&theme=github_dark&show_icons=true" alt="nikgautam" /> -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikgautamgithub&show_icons=true&theme=transparent&hide=stars)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikgautamgithub&layout=compact&theme=transparent)
+<pre align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikgautamgithub&show_icons=true&theme=transparent&hide=stars" height="170"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikgautamgithub&layout=compact&theme=transparent" height="170"/>
+</pre>
 
 # 🥇 Badges
 [![@gyunther's Holopin board](https://holopin.io/api/user/board?user=gyunther)](https://holopin.io/@gyunther)
