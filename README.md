@@ -115,7 +115,7 @@
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img
-      src="https://dinhanhthi.com/img/header/nextjs.png"
+      src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"
       alt="NextJS"
       width="40"
       height="40"
