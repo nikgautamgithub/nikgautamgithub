@@ -1,5 +1,5 @@
 <!--<h1 align="center"><img style="width: 230px; height: 30px; object-fit: cover; object-position: 0 5%;margin: -4px;border-radius: 3px;zoom:2; padding-bottom:10px;" src="hello-world.gif" alt= ""/></h1> -->
-#
+
 <h3 align="center">I own a computer, hence I Code.</h3>
 
 <!--
