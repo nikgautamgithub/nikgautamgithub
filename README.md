@@ -2,6 +2,7 @@
 #
 <h3 align="center">I own a computer, hence I Code.</h3>
 
+<!--
 - 👨‍💻 I have a good grasp of C/C++, Java, Py, HTML/CSS and Javascript. 
   <br/>
 - 💻 I have also worked with React, Angular, NextJS and currently learning Javascript Frameworks. 
@@ -23,6 +24,7 @@
 
 
 <!--![](https://github.com/nikgautamgithub/nikgautamgithub/blob/output/github-contribution-grid-snake.svg)-->
+<!--
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -164,12 +166,17 @@
   </a>
  </p>
 
+-->
+<!--
 <pre align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikgautamgithub&show_icons=true&theme=transparent&hide=stars" height="170"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikgautamgithub&layout=compact&theme=transparent" height="170"/>
 </pre>
+-->
 
+<!--
 # 🥇 Badges
 [![@gyunther's Holopin board](https://holopin.io/api/user/board?user=gyunther)](https://holopin.io/@gyunther)
+-->
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
